@@ -2,7 +2,7 @@
 game by pygame 
 
 
-download 2 images one names spaceship and one named player
-i was not able to uplaod those photoes here i dont know why but yep u have to download it hand to hand.
-one is for icon and main.png will be for player
+download 3 images one names spaceship.png , one named player.png , one named bullet.png , one named alien.png
+i was not able to uplaod those photoes here i dont know why but yep u have to download it hand to hand and place them in same folder as the main.py file
+its for icon , spaceship , alien , bullets 
 
